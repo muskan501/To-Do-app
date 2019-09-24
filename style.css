@@ -1,0 +1,29 @@
+.header
+{
+    background-color:grey;
+    font-family:"Comic Sans MS";
+    
+}
+span{
+   float:right; 
+   background-color:purple;
+}
+li{
+    font-size:20px;
+}
+.list
+{
+    background-color:palevioletred;
+     margin-top:-25px;
+}
+.container
+{
+    margin:15px;
+    background-color:palevioletred;
+}
+.footer
+{
+    background-color:grey;
+    margin-top:-25px;
+    padding:70px;
+}
